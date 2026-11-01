@@ -6,7 +6,7 @@
 
 ## ติดตั้งใน workspace ของ Claude
 ```bash
-git clone -q --depth 1 https://github.com/<ชื่อ>/excel-qa-tools /home/claude/xqa
+git clone -q --depth 1 https://github.com/keypakinn/excel-qa-tools /home/claude/xqa
 pip install -q oletools msoffcrypto-tool --break-system-packages
 ```
 
